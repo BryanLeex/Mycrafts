@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Log Files
+*.log
+
+# VS Code
+.vscode/
+
+# Folders
+build/
+test/
+bin/
+lib/
